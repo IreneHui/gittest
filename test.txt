@@ -1,2 +1,1 @@
 print "hello,world!";
-and printf "this is the second sentenct.";
